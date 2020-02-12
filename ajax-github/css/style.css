@@ -1,0 +1,22 @@
+#github{
+    max-width: 40px;
+}
+
+.card{
+    
+}
+
+.main-card{
+    -webkit-box-shadow: 4px 4px 13px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 13px -7px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 13px -7px rgba(0,0,0,0.75);
+    border:1px solid;
+    border-color: rgba(103, 108, 111, 0.459);
+    border-radius: 5px;
+}
+
+
+.avatar{
+        width: 100%;
+}
+
